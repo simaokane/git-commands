@@ -20,7 +20,7 @@ Permet de vérifier le statut du répertoire
 Permet de lister les modifications à traiter
 
 ## git log
-Permet de voir l'historique des differentes modifications qui ont été effectuées dans notre projet
+Permet de lister les modifications en local
 
 ## git log --oneline
 Permet de donner des éléments de manière compacte
