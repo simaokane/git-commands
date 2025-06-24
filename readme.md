@@ -16,8 +16,8 @@ Le message est important
 Permet de pousser les modofocations en ligne(sur github)
 
 ## git status
-Permet de vérifier le statut du répertoire
-Permet de lister les modifications à traiter
+  - Permet de vérifier le statut du répertoire
+  - Permet de lister les modifications à traiter
 
 ## git log
 Permet de lister les modifications en local
