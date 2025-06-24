@@ -21,3 +21,6 @@ Permet de lister les modifications à traiter
 
 ## git log
 Permet de voir l'historique des differentes modifications qui ont été effectuées dans notre projet
+
+## git log --oneline
+Permet de donner des éléments de manière compacte
