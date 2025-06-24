@@ -8,7 +8,7 @@ Permet d'initialiser un répertoire
 ## git add
 Permet d'ajouter un fichier ou des modifications dans le satgging
 
-## git commit
+## git commit 
 Permet d'enregistrer une modification en local
 Le message est important
 
