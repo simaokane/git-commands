@@ -18,3 +18,6 @@ Permet de pousser les modofocations en ligne(sur github)
 ## git status
 Permet de vérifier le statut du répertoire
 Permet de lister les modifications à traiter
+
+## git log
+Permet de voir l'historique des differentes modifications qui ont été effectuées dans notre projet
