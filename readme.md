@@ -45,4 +45,4 @@ Permet de donner des éléments de manière compacte
 ## git rebase
 - Permet de recuperer les modifications dans la branche mère
 - Les modifications de la branche mère sont placées en dessous des modifications de la branche courante
-- Les modifications de la branche courante sont placées au dessus des modifications de la branche mère
+- Les modifications de la branche courante sont placées au dessus des modifications de la branche mère.
