@@ -38,3 +38,6 @@ Permet de donner des éléments de manière compacte
 ## git checkout -b 
 - Permet de créer et de se déplacer dans une branche si elle n'existe pas
 - Exemple: git checkout -b feature/code-css
+
+## git pull
+- Permet de recuperer les modifications distantes
