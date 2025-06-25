@@ -36,5 +36,5 @@ Permet de voir la liste des branches.
 Permet de se déplacer d'une branche à une autre
 
 ## git checkout -b 
-- Permet de créer et de se déplacer dans une branche
+- Permet de créer et de se déplacer dans une branche si elle n'existe pas
 - Exemple: git checkout -b feature/code-css
