@@ -55,3 +55,7 @@ Permet de donner des éléments de manière compacte
 
 ## git diff
 - Permet de comparer eux commits
+
+## git clone
+- Permet de recupérer un projet existant. 
+- On copie le lien dans github et dans le terminal on fait git clone + lien
