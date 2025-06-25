@@ -24,3 +24,17 @@ Permet de lister les modifications en local
 
 ## git log --oneline
 Permet de donner des éléments de manière compacte
+
+## git branch + [nom de la branche]
+-Permet de créer une branche
+-Exemple: git branch feature/code-html
+
+## git branch
+Permet de voir la liste des branches.
+
+## git checkout
+Permet de se déplacer d'une branche à une autre
+
+## git checkout -b 
+-Permet de créer et de se déplacer dans une branche
+-Exemple: git checkout -b feature/code-css
